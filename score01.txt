@@ -1,1 +1,1 @@
-Quite = 20
+Quize = 25
